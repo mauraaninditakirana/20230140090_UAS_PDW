@@ -3,7 +3,7 @@
 2.Login
 ![Screenshot 2025-07-05 025412](https://github.com/user-attachments/assets/b044a541-d2c9-4fa1-b94c-838d673086af)
 3.Dashboard Asisten
-![Screenshot 2025-07-05 025653](https://github.com/user-attachments/assets/dc81b52a-9241-4ecc-899e-267693819ab4)
+![Screenshot 2025-07-05 025940](https://github.com/user-attachments/assets/4d5352f7-b13a-4abb-8572-253c36b59172)
 4.Manajemen Modul
 ![Screenshot 2025-07-05 030051](https://github.com/user-attachments/assets/6c9844f8-c514-4394-bc3a-708790a5da20)
 5.CRUD Modul
