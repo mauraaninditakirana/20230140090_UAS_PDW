@@ -1,2 +1,6 @@
-Registrasi
-![WhatsApp Image 2025-07-05 at 02 54 40_eaa0d720](https://github.com/user-attachments/assets/a0ff512e-530c-4833-a68b-32b0671adcb8)
+1.Registrasi
+![Screenshot 2025-07-05 025432](https://github.com/user-attachments/assets/a9c15cda-8535-40cd-8a16-467f2a7d3ca5)
+2.Login
+![Screenshot 2025-07-05 025412](https://github.com/user-attachments/assets/b044a541-d2c9-4fa1-b94c-838d673086af)
+
+
