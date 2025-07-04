@@ -26,3 +26,24 @@
 ![Screenshot 2025-07-05 030445](https://github.com/user-attachments/assets/408c69c4-c912-47ef-a6fb-ed4be57ea393)
 11.Update akun
 ![Screenshot 2025-07-05 030503](https://github.com/user-attachments/assets/d8e31a58-3455-43b0-96d7-f4cc777395dc)
+12.Dashboard Mahasiswa (praktikum diikuti, tugas selesai, dan tugas menunggu sesuai dengan mahasiswa)
+![Screenshot 2025-07-05 031034](https://github.com/user-attachments/assets/322da837-2224-4e93-9ba0-f28b9d03b023)
+13.Praktikum saya (dapat batalkan)
+![Screenshot 2025-07-05 031052](https://github.com/user-attachments/assets/218f8013-19c9-42ef-8898-23acecb0aea1)
+14.Tes unduh materi dan melihat sudah dinilai atau belum 
+![Screenshot 2025-07-05 031142](https://github.com/user-attachments/assets/d56f1263-4269-4e22-93b0-dc58a80c5cf6)
+15.Jika Praktikum tidak ada tugas
+![Screenshot 2025-07-05 031214](https://github.com/user-attachments/assets/50168d29-367c-4262-be4b-106dc2fa2cfa)
+16.Jika ingin batalkan ikut praktikum
+![Screenshot 2025-07-05 031235](https://github.com/user-attachments/assets/a83f431e-e832-463c-963a-b9a13b2175c0)
+17.Melihat dari daftar praktikum, dengan perbedaan tanda sudah mendaftar atau belum
+![Screenshot 2025-07-05 031308](https://github.com/user-attachments/assets/c289a518-ed02-471e-8ecc-9dd578fc9479)
+18.Jika berhasil mendaftar
+![Screenshot 2025-07-05 031325](https://github.com/user-attachments/assets/7ee26465-096e-4146-afa5-c9d854ad2d8e)
+19.Membatalkan daftar praktikum
+![Screenshot 2025-07-05 031354](https://github.com/user-attachments/assets/5240d593-aaf9-486e-a787-d459dd2cea8b)
+
+
+
+
+
