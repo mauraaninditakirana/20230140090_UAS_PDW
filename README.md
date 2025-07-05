@@ -22,29 +22,41 @@
 
 10.Edit Praktikum
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/7dcfbeca-cbe0-4213-8489-9b454a453264" />
-8.Laporan Masuk (dapat difilter juga)
+
+11.Laporan Masuk (dapat difilter juga)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/2c146f6d-9b02-4fc3-ba38-731e1d91013a" />
-9.Edit Laporan Masuk (dapat unduh laporan yang dikumpulkan mahasiswa)
+
+12.Edit Laporan Masuk (dapat unduh laporan yang dikumpulkan mahasiswa)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/8835e4f3-2bf4-4313-b3c5-b527f6aad1d3" />
-10.Manajemen Pengguna (dapat hapus, tambah, edit)
+
+13.Manajemen Pengguna (dapat hapus, tambah, edit)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/d9a3b955-2d8c-4e19-8caa-a6ca6cbd99cf" />
-11.Update akun
+
+14.Update akun
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/f98e03c3-3984-44cb-80e2-4249e6d3a792" />
-12.Dashboard Mahasiswa (praktikum diikuti, tugas selesai, dan tugas menunggu sesuai dengan mahasiswa)
+
+15.Dashboard Mahasiswa (praktikum diikuti, tugas selesai, dan tugas menunggu sesuai dengan mahasiswa)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1379730b-de1d-4173-ab38-dea56496a2ac" />
-13.Praktikum saya (dapat batalkan)
+
+16.Praktikum saya (dapat batalkan)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/c19d6c9a-ca32-4728-b84a-80f23f8d7c66" />
-14.Tes unduh materi dan melihat perbedaan tugas sudah dinilai atau belum
+
+17.Tes unduh materi dan melihat perbedaan tugas sudah dinilai atau belum
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/a7b6e4a0-c2da-4575-b198-e58912cfbf7d" />
-15.Jika Praktikum tidak ada tugas
+
+18.Jika Praktikum tidak ada tugas
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b4f8f849-a104-47c7-ac87-cb9ca97a6a7b" />
-16.Jika ingin batalkan ikut praktikum
+
+19.Jika ingin batalkan ikut praktikum
 ![Screenshot 2025-07-05 031235](https://github.com/user-attachments/assets/a83f431e-e832-463c-963a-b9a13b2175c0)
-17.Melihat dari daftar praktikum, dengan perbedaan tanda sudah mendaftar atau belum
+
+20.Melihat dari daftar praktikum, dengan perbedaan tanda sudah mendaftar atau belum
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/b3399974-f10e-49fd-93f5-eaebc88d7258" />
-18.Jika berhasil mendaftar
+
+21.Jika berhasil mendaftar
 ![Screenshot 2025-07-05 031325](https://github.com/user-attachments/assets/7ee26465-096e-4146-afa5-c9d854ad2d8e)
-19.Membatalkan daftar praktikum
+
+22.Membatalkan daftar praktikum
 ![Screenshot 2025-07-05 031354](https://github.com/user-attachments/assets/5240d593-aaf9-486e-a787-d459dd2cea8b)
 
 
