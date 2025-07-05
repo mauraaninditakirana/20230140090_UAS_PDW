@@ -1,26 +1,20 @@
 <?php
-// Pastikan session sudah dimulai
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-// Cek jika pengguna belum login atau bukan asisten
 if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'asisten') {
     header("Location: ../login.php"); 
     exit();
 }
 
-// --- LOGIKA BARU UNTUK MENU AKTIF OTOMATIS ---
-// Ambil nama file saat ini, contoh: "dashboard.php"
 $currentPage = basename($_SERVER['SCRIPT_NAME']);
-
-// Definisikan grup halaman untuk setiap menu
 $dashboardPages = ['dashboard.php'];
 $modulPages = ['modul.php', 'detail_modul.php', 'tambah_modul.php', 'edit_modul.php'];
 $praktikumPages = ['mata_praktikum.php', 'tambah_praktikum.php', 'edit_praktikum.php'];
 $laporanPages = ['laporan.php', 'nilai_laporan.php'];
 $userPages = ['users.php', 'tambah_user.php', 'edit_user.php'];
-// --- AKHIR LOGIKA BARU ---
+
 
 ?>
 <!DOCTYPE html>
@@ -30,20 +24,19 @@ $userPages = ['users.php', 'tambah_user.php', 'edit_user.php'];
     <title>Panel Asisten - <?php echo $pageTitle ?? 'Dashboard'; ?></title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100">
+<body class="bg-slate-100">
 
-<div class="flex h-screen bg-gray-100">
-    <!-- Sidebar -->
-    <aside class="w-64 bg-gray-800 text-white flex flex-col">
-        <div class="p-6 text-center border-b border-gray-700">
+<div class="flex h-screen bg-slate-100">
+    <aside class="w-64 bg-slate-800 text-white flex flex-col">
+        <div class="p-6 text-center border-b border-slate-700">
             <h3 class="text-xl font-bold">Panel Asisten</h3>
-            <p class="text-sm text-gray-400 mt-1"><?php echo htmlspecialchars($_SESSION['nama']); ?></p>
+            <p class="text-sm text-slate-400 mt-1"><?php echo htmlspecialchars($_SESSION['nama']); ?></p>
         </div>
         <nav class="flex-grow p-4">
             <ul class="space-y-2">
                 <?php 
-                    $activeClass = 'bg-gray-900 text-white';
-                    $inactiveClass = 'text-gray-400 hover:bg-gray-700 hover:text-white';
+                    $activeClass = 'bg-indigo-600 text-white';
+                    $inactiveClass = 'text-slate-300 hover:bg-slate-700 hover:text-white';
                 ?>
                 <li>
                     <a href="dashboard.php" class="<?php echo in_array($currentPage, $dashboardPages) ? $activeClass : $inactiveClass; ?> flex items-center px-4 py-2.5 rounded-md transition-colors duration-200">
@@ -78,15 +71,14 @@ $userPages = ['users.php', 'tambah_user.php', 'edit_user.php'];
             </ul>
         </nav>
         <div class="p-4 mt-auto">
-            <a href="../logout.php" class="flex items-center justify-center bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">
+            <a href="../logout.php" class="flex items-center justify-center bg-rose-500 hover:bg-rose-600 text-white font-bold py-2 px-4 rounded-lg transition-colors duration-300">
                 <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"></path></svg>
                 <span>Logout</span>
             </a>
         </div>
     </aside>
 
-    <!-- Main Content -->
     <main class="flex-1 p-6 lg:p-10">
         <header class="flex items-center justify-between mb-8">
-            <h1 class="text-3xl font-bold text-gray-800"><?php echo $pageTitle ?? 'Dashboard'; ?></h1>
+            <h1 class="text-3xl font-bold text-slate-800"><?php echo $pageTitle ?? 'Dashboard'; ?></h1>
         </header>
