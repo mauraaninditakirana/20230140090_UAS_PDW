@@ -14,12 +14,13 @@
 
 7.Edit Modul
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/5773c9a3-441a-42b4-8de6-2f5bb3dc63cf" />
-5.Manajemen Praktikum (menampilkan dapat tambah/hapus/edit)
+8.Manajemen Praktikum (menampilkan dapat tambah/hapus/edit)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/7c77d744-f99b-4f4b-b3a9-dc92ed370318" />
-6.Tambah Praktikum
+9.Tambah Praktikum
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/966bc869-e518-4949-9482-e09b6817d899" />
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/0ecfd97a-1618-46a1-a450-7bccaafd2fd9" />
-7.Edit Praktikum
+
+10.Edit Praktikum
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/7dcfbeca-cbe0-4213-8489-9b454a453264" />
 8.Laporan Masuk (dapat difilter juga)
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/2c146f6d-9b02-4fc3-ba38-731e1d91013a" />
