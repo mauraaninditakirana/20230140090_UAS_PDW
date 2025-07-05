@@ -11,6 +11,7 @@
 6.Tambah Modul
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/0f143aa2-f072-4529-907d-5900d2e23f80" />
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/ee07f30b-02ec-405c-8595-b8ff2f402857" />
+
 7.Edit Modul
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/5773c9a3-441a-42b4-8de6-2f5bb3dc63cf" />
 5.Manajemen Praktikum (menampilkan dapat tambah/hapus/edit)
