@@ -3,44 +3,60 @@
 2.Login
 ![Screenshot 2025-07-05 025412](https://github.com/user-attachments/assets/b044a541-d2c9-4fa1-b94c-838d673086af)
 3.Dashboard Asisten
-![Screenshot 2025-07-05 025940](https://github.com/user-attachments/assets/4d5352f7-b13a-4abb-8572-253c36b59172)
-4.Manajemen Modul
-![Screenshot 2025-07-05 030051](https://github.com/user-attachments/assets/6c9844f8-c514-4394-bc3a-708790a5da20)
-5.CRUD Modul
-![Screenshot 2025-07-05 030119](https://github.com/user-attachments/assets/63dde875-d492-484d-887d-8e9ff4e50a59)
-6.Tambah atau Hapus Modul
-![Screenshot 2025-07-05 030138](https://github.com/user-attachments/assets/cc4d6e44-d3be-4d8a-84b0-2c538a3dffc3)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7f92a0c1-d88a-4a2b-bd08-62e81c9a963e" />
+4.Manajemen Modul 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ce271d2b-f184-49d0-901a-febc63f78461" />
+5.CRUD Modul (dapat diunduh, edit atau dihapusjuga)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/94df5346-18b3-4192-aad3-1f6f20747ad6" />
+6.Tambah Modul
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/0f143aa2-f072-4529-907d-5900d2e23f80" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ee07f30b-02ec-405c-8595-b8ff2f402857" />
+
 7.Edit Modul
-![Screenshot 2025-07-05 030647](https://github.com/user-attachments/assets/2146df34-0eec-49cd-8e6f-c09d697e0eb3)
-5.Manajemen Praktikum (menampilkan dapat tambah/hapus/edit)
-![Screenshot 2025-07-05 030235](https://github.com/user-attachments/assets/fcb1de7a-a213-4318-8ed3-1b5cc0f33bf8)
-6.Tambah Praktikum
-![Screenshot 2025-07-05 030256](https://github.com/user-attachments/assets/906dc245-794d-4739-b41d-c0861e4c7ad5)
-7.Edit Praktikum
-![Screenshot 2025-07-05 030315](https://github.com/user-attachments/assets/36e8e3c7-37d1-4ac0-ab61-fa8d973885fb)
-8.Laporan Masuk (dapat difilter juga)
-![Screenshot 2025-07-05 030403](https://github.com/user-attachments/assets/6d8d44f5-5d1b-442b-971f-c91b0d618675)
-9.Edit Laporan Masuk
-![Screenshot 2025-07-05 030419](https://github.com/user-attachments/assets/affb3aa4-d85e-4dd6-bde7-5d89f2de11fa)
-10.Kelola akun (dapat hapus, tambah, edit)
-![Screenshot 2025-07-05 030445](https://github.com/user-attachments/assets/408c69c4-c912-47ef-a6fb-ed4be57ea393)
-11.Update akun
-![Screenshot 2025-07-05 030503](https://github.com/user-attachments/assets/d8e31a58-3455-43b0-96d7-f4cc777395dc)
-12.Dashboard Mahasiswa (praktikum diikuti, tugas selesai, dan tugas menunggu sesuai dengan mahasiswa)
-![Screenshot 2025-07-05 031034](https://github.com/user-attachments/assets/322da837-2224-4e93-9ba0-f28b9d03b023)
-13.Praktikum saya (dapat batalkan)
-![Screenshot 2025-07-05 031052](https://github.com/user-attachments/assets/218f8013-19c9-42ef-8898-23acecb0aea1)
-14.Tes unduh materi dan melihat sudah dinilai atau belum 
-![Screenshot 2025-07-05 031142](https://github.com/user-attachments/assets/d56f1263-4269-4e22-93b0-dc58a80c5cf6)
-15.Jika Praktikum tidak ada tugas
-![Screenshot 2025-07-05 031214](https://github.com/user-attachments/assets/50168d29-367c-4262-be4b-106dc2fa2cfa)
-16.Jika ingin batalkan ikut praktikum
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/5773c9a3-441a-42b4-8de6-2f5bb3dc63cf" />
+8.Manajemen Praktikum (menampilkan dapat tambah/hapus/edit)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7c77d744-f99b-4f4b-b3a9-dc92ed370318" />
+9.Tambah Praktikum
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/966bc869-e518-4949-9482-e09b6817d899" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/0ecfd97a-1618-46a1-a450-7bccaafd2fd9" />
+
+10.Edit Praktikum
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7dcfbeca-cbe0-4213-8489-9b454a453264" />
+
+11.Laporan Masuk (dapat difilter juga)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2c146f6d-9b02-4fc3-ba38-731e1d91013a" />
+
+12.Edit Laporan Masuk (dapat unduh laporan yang dikumpulkan mahasiswa)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/8835e4f3-2bf4-4313-b3c5-b527f6aad1d3" />
+
+13.Manajemen Pengguna (dapat hapus, tambah, edit)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/d9a3b955-2d8c-4e19-8caa-a6ca6cbd99cf" />
+
+14.Update akun
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/f98e03c3-3984-44cb-80e2-4249e6d3a792" />
+
+15.Dashboard Mahasiswa (praktikum diikuti, tugas selesai, dan tugas menunggu sesuai dengan mahasiswa)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/1379730b-de1d-4173-ab38-dea56496a2ac" />
+
+16.Praktikum saya (dapat batalkan)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c19d6c9a-ca32-4728-b84a-80f23f8d7c66" />
+
+17.Tes unduh materi dan melihat perbedaan tugas sudah dinilai atau belum
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a7b6e4a0-c2da-4575-b198-e58912cfbf7d" />
+
+18.Jika Praktikum tidak ada tugas
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b4f8f849-a104-47c7-ac87-cb9ca97a6a7b" />
+
+19.Jika ingin batalkan ikut praktikum
 ![Screenshot 2025-07-05 031235](https://github.com/user-attachments/assets/a83f431e-e832-463c-963a-b9a13b2175c0)
-17.Melihat dari daftar praktikum, dengan perbedaan tanda sudah mendaftar atau belum
-![Screenshot 2025-07-05 031308](https://github.com/user-attachments/assets/c289a518-ed02-471e-8ecc-9dd578fc9479)
-18.Jika berhasil mendaftar
+
+20.Melihat dari daftar praktikum, dengan perbedaan tanda sudah mendaftar atau belum
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b3399974-f10e-49fd-93f5-eaebc88d7258" />
+
+21.Jika berhasil mendaftar
 ![Screenshot 2025-07-05 031325](https://github.com/user-attachments/assets/7ee26465-096e-4146-afa5-c9d854ad2d8e)
-19.Membatalkan daftar praktikum
+
+22.Membatalkan daftar praktikum
 ![Screenshot 2025-07-05 031354](https://github.com/user-attachments/assets/5240d593-aaf9-486e-a787-d459dd2cea8b)
 
 
